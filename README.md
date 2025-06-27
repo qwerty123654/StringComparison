@@ -1,6 +1,3 @@
-Here’s a polished, professional `README.md` you can use for your [StringComparison](https://github.com/qwerty123654/StringComparison) repo. Feel free to customize the badges, examples, or add screenshots later:
-
----
 
 ````markdown
 # StringComparison
