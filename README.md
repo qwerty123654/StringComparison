@@ -1,6 +1,3 @@
-Here’s the updated `README.md` without the **Contributing** section:
-
----
 
 ````markdown
 # StringComparison
